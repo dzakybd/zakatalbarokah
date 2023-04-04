@@ -3,61 +3,63 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ebb2be99700bc48efe6ce62afc6a7cbd",
-"assets/assets/images/background.png": "e23e92af9e3093ed5eefa9e3c0d0a635",
-"assets/assets/images/calculator.png": "ee2340dcbb464e5c156a1cbba7fb9ea2",
-"assets/assets/images/copy.png": "10aa5523bfd26d24663bbbc28f7c9568",
-"assets/assets/images/donation.png": "dc4be58d7d32fdafafb3da83b64efad6",
-"assets/assets/images/fitrah.png": "286fd1da038410aa617bab6d349adaef",
-"assets/assets/images/icon_logo.png": "34e0657895d7e281e8238537a39347a0",
-"assets/assets/images/maal.png": "7ebb639a4e8f90808ac7dbb31a33e7d4",
-"assets/assets/images/mosque.png": "421551bbc142f63448f6570cbc086e19",
-"assets/assets/images/niat_fitrah.png": "85904962835a8b9e6f8689483c018dc8",
-"assets/assets/images/niat_maal.png": "5b013a22ca84085ddaa81a76ea336bc5",
-"assets/assets/images/one.png": "3b8c731e5735044366c44963f1423f1f",
-"assets/assets/images/pin.png": "44114f90221f8047a7921079f4b1dfb9",
-"assets/assets/images/profesi.png": "eaa5afd16acc37e07dbd988b30ab072b",
-"assets/assets/images/three.png": "75c2c71813dd8955d6c404b3efded602",
-"assets/assets/images/two.png": "e043e678952999a327f0fc4a5446c3c1",
-"assets/assets/images/wa.png": "a88dba7fcb5e30723f44a0cfe96e13ae",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "0f4cb6759281ef095e2a6e9c5d5b15b6",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
-"assets/packages/map_launcher/assets/icons/amap.svg": "00409535b144c70322cd4600de82657c",
-"assets/packages/map_launcher/assets/icons/apple.svg": "6fe49a5ae50a4c603897f6f54dec16a8",
-"assets/packages/map_launcher/assets/icons/baidu.svg": "22335d62432f9d5aac833bcccfa5cfe8",
-"assets/packages/map_launcher/assets/icons/citymapper.svg": "58c49ff6df286e325c21a28ebf783ebe",
-"assets/packages/map_launcher/assets/icons/doubleGis.svg": "ab8f52395c01fcd87ed3e2ed9660966e",
-"assets/packages/map_launcher/assets/icons/google.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
-"assets/packages/map_launcher/assets/icons/googleGo.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
-"assets/packages/map_launcher/assets/icons/mapswithme.svg": "87df7956e58cae949e88a0c744ca49e8",
-"assets/packages/map_launcher/assets/icons/osmand.svg": "639b2304776a6794ec682a926dbcbc4c",
-"assets/packages/map_launcher/assets/icons/tencent.svg": "4e1babec6bbab0159bdc204932193a89",
-"assets/packages/map_launcher/assets/icons/waze.svg": "311a17de2a40c8fa1dd9022d4e12982c",
-"assets/packages/map_launcher/assets/icons/yandexMaps.svg": "3dfd1d365352408e86c9c57fef238eed",
-"assets/packages/map_launcher/assets/icons/yandexNavi.svg": "bad6bf6aebd1e0d711f3c7ed9497e9a3",
-"assets/packages/progress_dialog/assets/double_ring_loading_io.gif": "e5b006904226dc824fdb6b8027f7d930",
+  "version.json": "b2f89972489cdf3cfe2224fb9ecb5608",
+"index.html": "552a3cfb5b0d4b1e6f1f8d5e7dfb1264",
+"/": "552a3cfb5b0d4b1e6f1f8d5e7dfb1264",
+"main.dart.js": "950e6f95114b2ccb5b8ee56881ed935c",
 "favicon.png": "b9a0244507663b1bc756277c93ef5f58",
 "icons/Icon-192.png": "32329623d0844422cea18ae9f5a61ff3",
-"icons/Icon-512.png": "72fca4d65867bc693468f38f4a5ad631",
 "icons/icon_logo.png": "34e0657895d7e281e8238537a39347a0",
-"index.html": "138496afe8d66f781f167579eab0211e",
-"/": "138496afe8d66f781f167579eab0211e",
-"main.dart.js": "f4deb91ce40223c5f75f369e339acb65",
+"icons/Icon-512.png": "72fca4d65867bc693468f38f4a5ad631",
 "manifest.json": "95efc298ee71348294c70813b0a2819c",
-"version.json": "a6e52d21fec5a1f3b2178b63a0b8f332"
+"assets/AssetManifest.json": "8de568c33f1df56628dd8add4b257463",
+"assets/NOTICES": "b2a1c4ef86f1778f6830593e69100f04",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/map_launcher/assets/icons/citymapper.svg": "58c49ff6df286e325c21a28ebf783ebe",
+"assets/packages/map_launcher/assets/icons/tencent.svg": "4e1babec6bbab0159bdc204932193a89",
+"assets/packages/map_launcher/assets/icons/yandexNavi.svg": "bad6bf6aebd1e0d711f3c7ed9497e9a3",
+"assets/packages/map_launcher/assets/icons/yandexMaps.svg": "3dfd1d365352408e86c9c57fef238eed",
+"assets/packages/map_launcher/assets/icons/petal.svg": "76c9cfa1bfefb298416cfef6a13a70c5",
+"assets/packages/map_launcher/assets/icons/doubleGis.svg": "ab8f52395c01fcd87ed3e2ed9660966e",
+"assets/packages/map_launcher/assets/icons/here.svg": "aea2492cde15953de7bb2ab1487fd4c7",
+"assets/packages/map_launcher/assets/icons/mapswithme.svg": "87df7956e58cae949e88a0c744ca49e8",
+"assets/packages/map_launcher/assets/icons/osmandplus.svg": "31c36b1f20dc45a88c283e928583736f",
+"assets/packages/map_launcher/assets/icons/google.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
+"assets/packages/map_launcher/assets/icons/googleGo.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
+"assets/packages/map_launcher/assets/icons/osmand.svg": "639b2304776a6794ec682a926dbcbc4c",
+"assets/packages/map_launcher/assets/icons/tomtomgo.svg": "493b0844a3218a19b1c80c92c060bba7",
+"assets/packages/map_launcher/assets/icons/baidu.svg": "22335d62432f9d5aac833bcccfa5cfe8",
+"assets/packages/map_launcher/assets/icons/apple.svg": "6fe49a5ae50a4c603897f6f54dec16a8",
+"assets/packages/map_launcher/assets/icons/waze.svg": "311a17de2a40c8fa1dd9022d4e12982c",
+"assets/packages/map_launcher/assets/icons/amap.svg": "00409535b144c70322cd4600de82657c",
+"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
+"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
+"assets/packages/progress_dialog/assets/double_ring_loading_io.gif": "e5b006904226dc824fdb6b8027f7d930",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/assets/images/mosque.png": "421551bbc142f63448f6570cbc086e19",
+"assets/assets/images/pin.png": "44114f90221f8047a7921079f4b1dfb9",
+"assets/assets/images/three.png": "75c2c71813dd8955d6c404b3efded602",
+"assets/assets/images/icon_logo.png": "34e0657895d7e281e8238537a39347a0",
+"assets/assets/images/two.png": "e043e678952999a327f0fc4a5446c3c1",
+"assets/assets/images/background.png": "e23e92af9e3093ed5eefa9e3c0d0a635",
+"assets/assets/images/niat_fitrah.png": "85904962835a8b9e6f8689483c018dc8",
+"assets/assets/images/calculator.png": "ee2340dcbb464e5c156a1cbba7fb9ea2",
+"assets/assets/images/maal.png": "7ebb639a4e8f90808ac7dbb31a33e7d4",
+"assets/assets/images/one.png": "3b8c731e5735044366c44963f1423f1f",
+"assets/assets/images/niat_maal.png": "5b013a22ca84085ddaa81a76ea336bc5",
+"assets/assets/images/wa.png": "a88dba7fcb5e30723f44a0cfe96e13ae",
+"assets/assets/images/donation.png": "dc4be58d7d32fdafafb3da83b64efad6",
+"assets/assets/images/fitrah.png": "286fd1da038410aa617bab6d349adaef",
+"assets/assets/images/profesi.png": "eaa5afd16acc37e07dbd988b30ab072b",
+"assets/assets/images/copy.png": "10aa5523bfd26d24663bbbc28f7c9568"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -66,7 +68,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
@@ -156,9 +158,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
